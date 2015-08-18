@@ -1,2 +1,2 @@
 # Utilidades
-Un cajón de sastre para las utilidades que he ido creando para el trabajo.
+Un cajón de sastre para las utilidades que he ido creando o descargando para el trabajo.
